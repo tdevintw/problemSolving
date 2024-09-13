@@ -1,8 +1,8 @@
-import Recursion.FactorialCalculation;
+import Recursion.SumOfDigits;
 
 public class Main {
     public static void main(String[] args) {
-        FactorialCalculation factorialCalculation = new FactorialCalculation();
-        System.out.println(factorialCalculation.calculateFactorial(20));
+        SumOfDigits sumOfDigits = new SumOfDigits();
+        System.out.println(sumOfDigits.sumOfDigits(5));
     }
 }
