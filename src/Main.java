@@ -1,9 +1,9 @@
 import Recursion.FibonacciSequence;
-import Recursion.SumOfDigits;
+import Recursion.StringReversal;
 
 public class Main {
     public static void main(String[] args) {
-        FibonacciSequence fibonacciSequence = new FibonacciSequence();
-        System.out.println(fibonacciSequence.fibonacciSequence(7));
+        StringReversal stringReversal = new StringReversal();
+        System.out.println(stringReversal.stringReversal("Ra"));
     }
 }
