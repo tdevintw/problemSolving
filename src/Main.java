@@ -1,11 +1,9 @@
-import Recursion.CountOccurrencesOfCharacter;
-import Recursion.FibonacciSequence;
-import Recursion.PowerCalculation;
-import Recursion.StringReversal;
+import Recursion.*;
 
 public class Main {
     public static void main(String[] args) {
-        PowerCalculation powerCalculation = new PowerCalculation();
-        System.out.println(powerCalculation.powerCalculation(12,10));
+        ArraySum arraySum = new ArraySum();
+        int[] arr = {1,2,3,4,5,6,9};
+        System.out.println(arraySum.arraySum(arr));
     }
 }
