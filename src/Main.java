@@ -1,8 +1,9 @@
+import Recursion.FibonacciSequence;
 import Recursion.SumOfDigits;
 
 public class Main {
     public static void main(String[] args) {
-        SumOfDigits sumOfDigits = new SumOfDigits();
-        System.out.println(sumOfDigits.sumOfDigits(5));
+        FibonacciSequence fibonacciSequence = new FibonacciSequence();
+        System.out.println(fibonacciSequence.fibonacciSequence(7));
     }
 }
