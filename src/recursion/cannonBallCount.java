@@ -1,4 +1,4 @@
-package Recursion;
+package recursion;
 public class cannonBallCount {
     public static long countCannonBall(int layers) {
         if (layers == 0) {
