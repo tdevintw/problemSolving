@@ -1,7 +1,7 @@
 import recursion.*;
-
+import arraysHashing.*;
 public class Main {
     public static void main(String[] args) {
-        System.out.println(PascaleValue.getPascaleValue(8,5));
+        AnagramGroupsEnhanced.AnagramGroups(new String[] {"act","pots","tops","cat","stop","hat"});
     }
 }
