@@ -1,3 +1,12 @@
+/*
+ * Problem: Find the greatest common divisor (GCD) of two positive integers using recursion.
+ *
+ * Example:
+ * Input: a = 54, b = 24
+ * Output: 6
+ */
+
+
 package recursion;
 
 public class greatestCommonDivisor {

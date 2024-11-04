@@ -1,3 +1,12 @@
+/*
+ * Problem: Calculate the sum of all elements in an integer array using recursion.
+ *
+ * Example:
+ * Input: arr = [1, 2, 3, 4, 5]
+ * Output: 15
+ */
+
+
 package recursion;
 
 import java.util.Arrays;

@@ -1,3 +1,12 @@
+/*
+ * Problem: Reverse a given string using recursion.
+ *
+ * Example:
+ * Input: str = "hello"
+ * Output: "olleh"
+ */
+
+
 package recursion;
 
 public class StringReversal {

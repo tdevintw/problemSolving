@@ -1,3 +1,12 @@
+/*
+ * Problem: Generate all permutations of a given string.
+ *
+ * Example:
+ * Input: str = "abc"
+ * Output: ["abc", "acb", "bac", "bca", "cab", "cba"]
+ */
+
+
 package recursion;
 
 public class Permutations {

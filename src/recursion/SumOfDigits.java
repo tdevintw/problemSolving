@@ -1,3 +1,12 @@
+/*
+ * Problem: Calculate the sum of all digits in a given positive integer n.
+ *
+ * Example:
+ * Input: n = 1234
+ * Output: 10
+ */
+
+
 package recursion;
 
 public class SumOfDigits {

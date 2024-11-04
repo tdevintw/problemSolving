@@ -1,3 +1,12 @@
+/*
+ * Problem: Count the occurrences of a specific character in a given string using recursion.
+ *
+ * Example:
+ * Input: str = "hello world", char = 'o'
+ * Output: 2
+ */
+
+
 package recursion;
 
 public class CountOccurrencesOfCharacter {
